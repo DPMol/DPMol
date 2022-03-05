@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Moldovan Denis-Paul
+- 🌱 I’m currently learning mathematics and informatics at "Babes-Bolyai" University
+- Looking to start putting all of my important project on GitHub
